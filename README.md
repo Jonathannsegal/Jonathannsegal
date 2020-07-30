@@ -1,7 +1,7 @@
-# [![jonathan segal header](https://raw.githubusercontent.com/Jonathannsegal/Jonathannsegal/master/images/gh-bannner.png)](https://jonathansegal.io/)
+# [![jonathan segal header](https://raw.githubusercontent.com/Jonathannsegal/Jonathannsegal/main/images/gh-bannner.png)](https://jonathansegal.io/)
 <p align='center'>
-<a href="https://twitter.com/jonathannsegal"><img height="30" src="https://github.com/jonathannsegal/jonathannsegal/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jonathannsegal/"><img height="30" src="https://github.com/Jonathannsegal/Jonathannsegal/blob/master/images/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/jonathannsegal"><img height="30" src="https://github.com/jonathannsegal/jonathannsegal/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jonathannsegal/"><img height="30" src="https://github.com/Jonathannsegal/Jonathannsegal/blob/main/images/linkedin.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/jonathannsegal/"><img src="https://visitor-badge.glitch.me/badge?page_id=jonathannsegal.visitor-badge"></a>
  </p>
 
